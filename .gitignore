@@ -1,3 +1,13 @@
-bin/ 
-obj/ 
-.vs/ 
+# Build output
+bin/
+obj/
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.user
+
+# Playwright
+.playwright/
+playwright/.cache/
